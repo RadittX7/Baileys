@@ -1,7 +1,7 @@
 {
-  "name": "@Getsuzo/System",
-  "version": "777",
-  "description": "WhatsApp API Modification By Anonymous",
+  "name": "@tamainfinity/custom-baileys",
+  "version": "1.0.4",
+  "description": "WhatsApp API Modification By Tama Ryuichi",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/TheGetsuzoZhiro/CoreSystem",
+  "homepage": "https://github.com/Tama-Ryuichi/Tama-Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:TheGetsuzoZhiro/CoreSystem.git"
+    "url": "git+ssh://git@github.com:Tama-Ryuichi/Tama-Baileys.git"
   },
   "license": "MIT",
-  "author": "@RaditXML",
+  "author": "@tamainfinity",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
